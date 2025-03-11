@@ -10,7 +10,7 @@
   <p align="center">
      Welcome to the Portfolio Generator project! This platform is crafted using NextJS to help professionals create and deploy their personal portfolio sites effortlessly. Dive into our documentation, view the demo, or contribute to this open-source initiative.
     <br />
-    <a href="https://github.com/Maryam4321/Portfoliomatic"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/Maryam4321/Portfoliomatic "><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
